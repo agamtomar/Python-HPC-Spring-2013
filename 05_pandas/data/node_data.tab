@@ -1,0 +1,22 @@
+name test percent
+node0001 stream 0.1
+node0002 stream 0.3
+node0003 stream 0.4
+node0004 stream 0.05
+node0005 stream 0.01
+node0006 stream 0.09
+node0007 stream 0.15
+node0008 stream 0.0
+node0009 stream 0.0
+node0010 stream 0.1
+node0001 linpack 0.01
+node0002 linpack 0.3
+node0003 linpack 0.4
+node0004 linpack 0.5
+node0005 linpack 0.1
+node0006 linpack 0.09
+node0007 linpack 0.05
+node0008 linpack 0.1
+node0009 linpack 0.0
+node0010 linpack 0.0
+
