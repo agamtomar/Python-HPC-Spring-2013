@@ -1,3 +1,12 @@
 .DS_Store
 Python4Matlab/test.pdf
 Python4Matlab/testTimes.csv
+
+build
+*profile.dat
+
+*.png
+*.so
+
+10_extend/*.c
+
